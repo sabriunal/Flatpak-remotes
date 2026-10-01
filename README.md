@@ -102,7 +102,7 @@ Often outdated, but "more secure" apps, from the Purism developers.
 Curently mainly focused on the [Megapixels](https://gitlab.com/megapixels-org/Megapixels) camera application for Linux phones.
 
 ## [Igalia](https://software.igalia.com/)
-For [Gobby](https://gobby.github.io/), [Linphone](https://gobby.github.io/), the Webkit SDK and [Revolt](https://github.com/aperezdc/revolt/) (unmaintained)
+For [Gobby](https://gobby.github.io/), [Linphone](https://github.com/belledonnecommunications/linphone-android), the Webkit SDK and [Revolt](https://github.com/aperezdc/revolt/) (unmaintained)
 
     flatpak remote-add --if-not-exists igalia https://software.igalia.com/flatpak-refs/igalia.flatpakrepo
 
